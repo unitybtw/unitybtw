@@ -7,7 +7,15 @@
 
   [![Portfolio](https://img.shields.io/badge/Website-Siraç's_Portfolio-1FE0A1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://unitybtw.github.io/sirac-portfolio/)
   [![GitHub Followers](https://img.shields.io/github/followers/unitybtw?style=for-the-badge&color=282a36)](https://github.com/unitybtw)
+  ![Visitors](https://komarev.com/ghpvc/?username=unitybtw&color=1FE0A1&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
+
+---
+
+### 🔭 Currently ...
+- 💻 **Working on:** Adding more games (like Minecraft Eaglercraft) to [The Arcade](https://unitybtw.github.io/sirac-portfolio/).
+- 🎮 **Focusing on:** Improving iframe performance and better user input handling for web ports.
+- 🎯 **Goal:** Building the ultimate ad-free web gaming hub for university students.
 
 ---
 
@@ -28,6 +36,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unitybtw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=unitybtw&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Siraç Göktuğ's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unitybtw&theme=tokyonight" alt="Siraç Göktuğ's GitHub streak" />
 </p>
