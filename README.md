@@ -37,10 +37,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unitybtw&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unitybtw&theme=tokyonight" alt="Streak Stats" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=unitybtw&show_icons=true&theme=tokyonight&count_private=true" width="400px" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=unitybtw&theme=tokyonight" width="400px" />
+      </td>
+    </tr>
+  </table>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unitybtw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unitybtw&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400px" />
 </div>
 
 ---
