@@ -14,5 +14,5 @@ Software Engineer & Game Developer
 - [Portfolio & Arcade](https://unitybtw.github.io/sirac-portfolio/) - Personal web gaming hub.
 
 ### Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unitybtw&show_icons=true&theme=dark&hide_border=true)](https://github.com/unitybtw)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unitybtw&layout=compact&theme=dark&hide_border=true)](https://github.com/unitybtw)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=unitybtw&show_icons=true&theme=dark&hide_border=true)](https://github.com/unitybtw)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unitybtw&layout=compact&theme=dark&hide_border=true)](https://github.com/unitybtw)
