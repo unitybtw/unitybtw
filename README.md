@@ -30,8 +30,8 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <!-- Stats Cards (Alternative Provider) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unitybtw&theme=tokyonight" width="48%" />
+  <!-- Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unitybtw&theme=tokyonight" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unitybtw&theme=tokyonight" width="48%" />
 </div>
 
