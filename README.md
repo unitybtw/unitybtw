@@ -1,26 +1,26 @@
 <div align="center">
-  <!-- Üst Dalga ve Karşılama Animasyonu -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Siraç!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20|%20Software%20Developer&descAlignY=51&descAlign=62" />
+  <!-- Header Wave and Greeting -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Siraç!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20|%20Software%20Developer&descAlignY=51&descAlign=62" />
   
-  <!-- Daktilo Efekti -->
+  <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Game+Developer;Software+Developer;A%C3%A7%C4%B1k+Kaynak+Tutkunu;Modern+Teknolojiler..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Game+Developer;Software+Developer;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-### 🚀 Hakkımda
-- 🔭 Şu anda **harika projeler** üzerinde çalışıyorum.
-- 🌱 **Oyun Geliştirme** ve **Yazılım Geliştirme** üzerine kendimi geliştiriyorum.
-- 👯 Açık kaynaklı projelere katkıda bulunmayı seviyorum.
-- ⚡ Eğlenceli gerçek: *Kod yazarken kahve vazgeçilmezimdir!* ☕
+### 🚀 About Me
+- 🔭 I’m currently working on **awesome projects**.
+- 🌱 I’m currently learning and focusing on **Game Development** and **Software Engineering**.
+- 👯 I love contributing to open-source projects.
+- ⚡ Fun fact: *I write my best code after a cup of coffee!* ☕
 
 <br/>
 
-### 🛠️ Teknoloji Yığınım
+### 🛠️ Tech Stack
 <div align="center">
-  <!-- Yetenek İkonları -->
+  <!-- Skill Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,cpp,js,ts,react,nodejs,python,git,github,docker,linux&perline=6" />
   </a>
@@ -28,25 +28,25 @@
 
 <br/>
 
-### 📈 GitHub İstatistiklerim
+### 📈 GitHub Stats
 <div align="center">
-  <!-- İstatistik Kartları -->
-  <img src="https://github-readme-stats.vercel.app/api?username=unitybtw&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=unitybtw&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=unitybtw&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=unitybtw&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- En Çok Kullanılan Diller -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unitybtw&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unitybtw&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </div>
 
 <br/>
 
-### 🤝 İletişime Geçelim
+### 🤝 Let's Connect
 <div align="center">
-  <!-- Sosyal Medya Rozetleri -->
+  <!-- Social Media Badges -->
   <a href="mailto:sgoktug34@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sgoktugsimsek"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/unitybtw"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -56,6 +56,6 @@
 <br/>
 
 <div align="center">
-  <!-- Alt Dalga Efekti -->
+  <!-- Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
