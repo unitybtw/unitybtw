@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Wave and Greeting -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Siraç!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20|%20Software%20Developer&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Siraç!&fontSize=70&animation=fadeIn&fontAlignY=45" />
   
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
@@ -30,16 +30,9 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=unitybtw&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=unitybtw&theme=tokyonight&hide_border=true&v=1" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unitybtw&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" />
+  <!-- Stats Cards (Alternative Provider) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unitybtw&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unitybtw&theme=tokyonight" width="48%" />
 </div>
 
 <br/>
