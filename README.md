@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Üst Dalga ve Karşılama Animasyonu -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Siraç!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Yazılım%20Geliştirici%20|%20Teknoloji%20Tutkunu&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Siraç!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20|%20Software%20Developer&descAlignY=51&descAlign=62" />
   
   <!-- Daktilo Efekti -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full+Stack+Geli%C5%9Ftirici;A%C3%A7%C4%B1k+Kaynak+Tutkunu;Modern+Web+Teknolojileri;S%C3%BCrekli+%C3%96%C4%9Freniyorum..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Game+Developer;Software+Developer;A%C3%A7%C4%B1k+Kaynak+Tutkunu;Modern+Teknolojiler..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 🚀 Hakkımda
 - 🔭 Şu anda **harika projeler** üzerinde çalışıyorum.
-- 🌱 **Yapay Zeka** ve **Modern Uygulama Geliştirme** üzerine kendimi geliştiriyorum.
+- 🌱 **Oyun Geliştirme** ve **Yazılım Geliştirme** üzerine kendimi geliştiriyorum.
 - 👯 Açık kaynaklı projelere katkıda bulunmayı seviyorum.
 - ⚡ Eğlenceli gerçek: *Kod yazarken kahve vazgeçilmezimdir!* ☕
 
@@ -22,7 +22,7 @@
 <div align="center">
   <!-- Yetenek İkonları -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,git,github,docker,linux,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,cpp,js,ts,react,nodejs,python,git,github,docker,linux&perline=6" />
   </a>
 </div>
 
@@ -31,8 +31,8 @@
 ### 📈 GitHub İstatistiklerim
 <div align="center">
   <!-- İstatistik Kartları -->
-  <img src="https://github-readme-stats.vercel.app/api?username=unitybtw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unitybtw&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unitybtw&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=unitybtw&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
